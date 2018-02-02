@@ -5,6 +5,7 @@ Pink
 Orange
 Blue
 Red
+Black
 Yellow
 Unicon
 These is the poem of raibow
