@@ -7,6 +7,7 @@ Blue
 Red
 Yellow
 Unicon
+Uniform
 These is the poem of raibow
 from unicon
 test
